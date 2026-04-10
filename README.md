@@ -114,7 +114,18 @@ The interactive dashboard includes:
 
 ## 📸 Dashboard Preview
 
-(Add your dashboard screenshots here)
+### 📊 Main Dashboard
+![Dashboard](https://github.com/Anshpatel1825/E-Commerce-Sales-Analytics-SQL-PowerBI/blob/main/Dashboard.png?raw=true)
+
+---
+
+### 👥 Customer Analysis
+![Customer Analysis](https://github.com/Anshpatel1825/E-Commerce-Sales-Analytics-SQL-PowerBI/blob/main/Customer%20Analysis.png?raw=true)
+
+---
+
+### 🏪 Seller Analysis
+![Seller Analysis](https://github.com/Anshpatel1825/E-Commerce-Sales-Analytics-SQL-PowerBI/blob/main/Saller%20Analysis.png?raw=true)
 
 ---
 
